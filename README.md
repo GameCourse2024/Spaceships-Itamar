@@ -5,4 +5,4 @@ Modified Spaceships game - added:
 - Player has cooldown shooting between each shot
 - Meteorite appear and can destroy your ship!
 
-Play this game HERE
+Play this game [HERE](https://games2024.itch.io/spaceships-itamar)https://games2024.itch.io/spaceships-itamar
